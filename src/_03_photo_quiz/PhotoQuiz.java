@@ -26,11 +26,11 @@ public class PhotoQuiz {
 		// 1. find an image on the internet, and put its URL in a String
 		// variable (from your browser, right click on the image, and select
 		// “Copy Image Address”)
-
+		String image = "https://i0.wp.com/www.redpandanetwork.org/wp-content/uploads/2020/07/28138502587_a0a020ae9a_k.jpg?fit=1024%2C683&ssl=1";
 		// 2. create a variable of type "Component" that will hold your image
-
+		Component panda;
 		// 3. use the "createImage()" method below to initialize your Component
-
+		
 		// 4. add the image to the quiz window
 
 		// 5. call the pack() method on the quiz window
