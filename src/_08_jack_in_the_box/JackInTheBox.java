@@ -61,7 +61,7 @@ public class JackInTheBox implements ActionListener {
 			counter++;
 		}
 		if (counter == 5) {
-			showPicture("https://blog.retroplanet.com/wp-content/uploads/2009/08/26606_a_zm-e1346418424113.jpg");
+			showPicture("jackInTheBox.png");
 		}
 	}
 }
